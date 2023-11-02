@@ -1,4 +1,6 @@
 # Masterarbeit Leon Sengün
+Masterarbeit über ein aktives Latentwärmspeichersystem, mit freundlicher Unterstützung des Deutschen Zentrums für Luft-und Raumfahrt (DLR), absolviert an der Universität Stuttgart. 
+
 ## Inhaltsverzeichnis
 
 **Ausarbeitung:** Ausarbeitung in der Druckversion (docx & pdf)
